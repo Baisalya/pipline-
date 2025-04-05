@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+pymssql
+azure-storage-blob
+bcrypt
+python-multipart
